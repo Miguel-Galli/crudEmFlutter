@@ -1,0 +1,1 @@
+export 'shinobi_repository.dart';
